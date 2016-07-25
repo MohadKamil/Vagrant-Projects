@@ -1,0 +1,5 @@
+#ignoring vagrant arti folder
+
+.vagrant/
+*.swo
+*.swp
